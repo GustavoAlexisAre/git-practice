@@ -2,4 +2,6 @@ Name: Alexis Arellano
 Age: 25
 Favorite Color: Blue
 
+hello
+how are you
 
